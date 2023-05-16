@@ -1,1 +1,1 @@
- 
+//? Restringe los dominios  
